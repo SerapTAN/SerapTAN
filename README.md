@@ -1,13 +1,13 @@
 ## Hi I'm Serap Tan 👋
 
-<!--
-**SerapTAN/SerapTAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student in San Jose, interested in AI, data, and software development.  
+Currently learning Python, C++, Java, and building real-world projects to grow my skills.
 
+### 🔧 Skills
+- Python, C++, Java  
+- Git/GitHub, VS Code  
+- Data Structures, Algorithms  
 
-
-### 🌟 About Me
-- 📚 CS student at San Jose City College (Transfer to SJSU planned)  
-- 🤖 Passionate about AI and data-driven problem solving  
-- 💡 Interested in machine learning, analytics, and software development  
-- 🔍 Always learning and building real-world projects  
-- 🎯 Goal: Software Engineering or AI/Data internship in 2026  
+### 🎯 Goals
+- AI/Data or Software Engineering internship in 2026  
+- Learning ML fundamentals and building AI projects  
