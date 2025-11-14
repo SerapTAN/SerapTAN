@@ -10,4 +10,7 @@ Currently learning Python, C++, Java, and building real-world projects to grow m
 
 ### 🎯 Goals
 - AI/Data or Software Engineering internship in 2026  
-- Learning ML fundamentals and building AI projects  
+- Learning ML fundamentals and building AI projects
+
+### 📫 Connect
+LinkedIn: https://www.linkedin.com/in/serap-t-04771b205
